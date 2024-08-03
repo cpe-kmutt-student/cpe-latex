@@ -1,6 +1,8 @@
+# ⛔ **DEPRECATED**
+✋ This repository is no longer maintained or updated since this organization has been abandoned. It have been relocated and transfer to the new [CPE Student Union](https://github.com/kmutt-cpe-student) organization along with [this repository](https://github.com/kmutt-cpe-student/cpe-latex)
+
 ## 📝 CPE-KMUTT's LaTeX Template
 ![cc-by-sa-shield](https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg)
-
 
 > LaTeX templates by Computer Engineering, King Mongkut's University of Technology Thonburi.
 
